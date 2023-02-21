@@ -25,4 +25,8 @@ After Training Embedding data and preprocessing the dataset, you can run the "SP
 There are some examples in the "Example" folder, including the simple query test or the conjunctive queries which are described in my paper.
 
 
+--------------------------------------------------------
 
+## 工程介绍
+
+使用TransE，TransH 和TransR为基础嵌入模型，对于知识图谱的实体和关系进行嵌入化，并对SPARQL查询语言结果进行预测扩展，预测当前查询中在知识图谱中未出现但最有可能成为事实的三元组关系
